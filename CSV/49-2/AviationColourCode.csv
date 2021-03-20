@@ -1,0 +1,8 @@
+@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation
+<http://codes.wmo.int/49-2/AviationColourCode/GREEN>,GREEN,stable,"'Volcano is in normal, non-eruptive state.  Or, after a change from a higher alert level: Volcanic activity considered to have ceased, and volcano reverted to its normal, non-eruptive state.'@en",skos:Concept,'Green'@en,GREEN
+<http://codes.wmo.int/49-2/AviationColourCode/NIL>,NIL,stable,'Nil'@en,skos:Concept,'Nil'@en,NIL
+<http://codes.wmo.int/49-2/AviationColourCode/NOT_GIVEN>,NOT_GIVEN,stable,'Not Given'@en,skos:Concept,'Not Given'@en,NOT GIVEN
+<http://codes.wmo.int/49-2/AviationColourCode/ORANGE>,ORANGE,stable,"'Volcano is exhibiting heightened unrest with increased likelihood of eruption.  Or, volcanic eruption is underway with no or minor ash emission [specify ash-plume height if possible].'@en",skos:Concept,'Orange'@en,ORANGE
+<http://codes.wmo.int/49-2/AviationColourCode/RED>,RED,stable,"'Eruption is forecasted to be imminent with significant emission of ash into the atmosphere likely. Or, eruption is underway with significant emission of ash into the atmosphere [specify ash-plume height if possible].'@en",skos:Concept,'Red'@en,RED
+<http://codes.wmo.int/49-2/AviationColourCode/UNKNOWN>,UNKNOWN,stable,'Unknown'@en,skos:Concept,'Unknown'@en,UNKNOWN
+<http://codes.wmo.int/49-2/AviationColourCode/YELLOW>,YELLOW,stable,"'Volcano is experiencing signs of elevated unrest above known background levels. Or, after a change from higher alert level: Volcanic activity has decreased significantly but continues to be closely monitored for possible renewed increase.'@en",skos:Concept,'Yellow'@en,YELLOW

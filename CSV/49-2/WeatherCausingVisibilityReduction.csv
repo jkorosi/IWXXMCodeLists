@@ -1,0 +1,20 @@
+@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/BR>,BR,stable,'Mist'@en,skos:Concept,'Mist'@en,BR
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/DS>,DS,stable,'Duststorm'@en,skos:Concept,'Duststorm'@en,DS
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/DU>,DU,stable,'Dust'@en,skos:Concept,'Dust'@en,DU
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/DZ>,DZ,stable,'Drizzle'@en,skos:Concept,'Drizzle'@en,DZ
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/FC>,FC,stable,'Funnel Cloud'@en,skos:Concept,'Funnel Cloud'@en,FC
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/FG>,FG,stable,'Fog'@en,skos:Concept,'Fog'@en,FG
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/FU>,FU,stable,'Smoke'@en,skos:Concept,'Smoke'@en,FU
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/GR>,GR,stable,'Hail'@en,skos:Concept,'Hail'@en,GR
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/GS>,GS,stable,'Small Hail'@en,skos:Concept,'Small Hail'@en,GS
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/HZ>,HZ,stable,'Haze'@en,skos:Concept,'Haze'@en,HZ
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/PL>,PL,stable,'Ice pellets'@en,skos:Concept,'Ice pellets'@en,PL
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/PO>,PO,stable,'Dust/stand whirls'@en,skos:Concept,'Dust/stand whirls'@en,PO
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/RA>,RA,stable,'Rain'@en,skos:Concept,'Rain'@en,RA
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/SA>,SA,stable,'Sand'@en,skos:Concept,'Sand'@en,SA
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/SG>,SG,stable,'Snow grams'@en,skos:Concept,'Snow grams'@en,SG
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/SN>,SN,stable,'Snow'@en,skos:Concept,'Snow'@en,SN
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/SQ>,SQ,stable,'Squall'@en,skos:Concept,'Squall'@en,SQ
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/SS>,SS,stable,'Sandstorm'@en,skos:Concept,'Sandstorm'@en,SS
+<http://codes.wmo.int/49-2/WeatherCausingVisibilityReduction/VA>,VA,stable,'Volcanic Ash'@en,skos:Concept,'Volcanic Ash'@en,VA

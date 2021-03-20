@@ -1,0 +1,19 @@
+@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation
+<http://codes.wmo.int/49-2/AirWxPhenomena/BKN_CLD>,BKN_CLD,stable,'Broken cloud'@en,skos:Concept,'Broken cloud'@en,BKN CLD
+<http://codes.wmo.int/49-2/AirWxPhenomena/FRQ_CB>,FRQ_CB,stable,'Frequent cumulonimbus cloud'@en,skos:Concept,'Frequent cumulonimbus cloud'@en,FRQ CB
+<http://codes.wmo.int/49-2/AirWxPhenomena/FRQ_TCU>,FRQ_TCU,stable,'Frequent towering cumulus cloud'@en,skos:Concept,'Frequent towering cumulus cloud'@en,FRQ TCU
+<http://codes.wmo.int/49-2/AirWxPhenomena/ISOL_CB>,ISOL_CB,stable,'Isolated cumulonimbus cloud'@en,skos:Concept,'Isolated cumulonimbus cloud'@en,ISOL CB
+<http://codes.wmo.int/49-2/AirWxPhenomena/ISOL_TCU>,ISOL_TCU,stable,'Isolated towering cumulus cloud'@en,skos:Concept,'Isolated towering cumulus cloud'@en,ISOL TCU
+<http://codes.wmo.int/49-2/AirWxPhenomena/ISOL_TS>,ISOL_TS,stable,'Isolated thunderstorms'@en,skos:Concept,'Isolated thunderstorms'@en,ISOL TS
+<http://codes.wmo.int/49-2/AirWxPhenomena/ISOL_TSGR>,ISOL_TSGR,stable,'Isolated thunderstorms with hail'@en,skos:Concept,'Isolated thunderstorms with hail'@en,ISOL TSGR
+<http://codes.wmo.int/49-2/AirWxPhenomena/MOD_ICE>,MOD_ICE,stable,'Moderate icing'@en,skos:Concept,'Moderate icing'@en,MOD ICE
+<http://codes.wmo.int/49-2/AirWxPhenomena/MOD_MTW>,MOD_MTW,stable,'Moderate mountain wave'@en,skos:Concept,'Moderate mountain wave'@en,MOD MTW
+<http://codes.wmo.int/49-2/AirWxPhenomena/MOD_TURB>,MOD_TURB,stable,'Moderate turbulence'@en,skos:Concept,'Moderate turbulence'@en,MOD TURB
+<http://codes.wmo.int/49-2/AirWxPhenomena/MT_OBSC>,MT_OBSC,stable,'Mountain obscuration'@en,skos:Concept,'Mountain obscuration'@en,MT OBSC
+<http://codes.wmo.int/49-2/AirWxPhenomena/OCNL_CB>,OCNL_CB,stable,'Occasional cumulonimbus cloud'@en,skos:Concept,'Occasional cumulonimbus cloud'@en,OCNL CB
+<http://codes.wmo.int/49-2/AirWxPhenomena/OCNL_TCU>,OCNL_TCU,stable,'Occasional towering cumulus cloud'@en,skos:Concept,'Occasional towering cumulus cloud'@en,OCNL TCU
+<http://codes.wmo.int/49-2/AirWxPhenomena/OCNL_TS>,OCNL_TS,stable,'Occasional thunderstorms'@en,skos:Concept,Occasional thunderstorms,'OCNL TS'@en
+<http://codes.wmo.int/49-2/AirWxPhenomena/OCNL_TSGR>,OCNL_TSGR,stable,'Occasional thunderstorms with hail'@en,skos:Concept,'Occasional thunderstorms with hail'@en,OCNL TSGR
+<http://codes.wmo.int/49-2/AirWxPhenomena/OVC_CLD>,OVC_CLD,stable,'Overcast cloud'@en,skos:Concept,'Overcast cloud'@en,OVC CLD
+<http://codes.wmo.int/49-2/AirWxPhenomena/SFC_VIS>,SFC_VIS,stable,'Surface visibility'@en,skos:Concept,'Surface visibility'@en,SFC VIS nnnnM (mm)
+<http://codes.wmo.int/49-2/AirWxPhenomena/SFC_WIND>,SFC_WIND,stable,'Widespread mean surface wind'@en,skos:Concept,'Widespread mean surface wind'@en,SFC WIND nn[n]MPS

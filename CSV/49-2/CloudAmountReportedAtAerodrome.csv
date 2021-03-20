@@ -1,0 +1,11 @@
+@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation,skos:related
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/BKN>,BKN,stable,'Broken (5 - 7 oktas).'@en,skos:Concept,'Broken'@en,BKN,<http://codes.wmo.int/bufr4/codeflag/0-20-008/3>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/EMBD>,EMBD,stable,'Embedded. Applicable only to cumulonimbus (CB).'@en,skos:Concept,'Embedded'@en,EMBD,<http://codes.wmo.int/bufr4/codeflag/0-20-008/16>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/FEW>,FEW,stable,'Few (1 - 2 oktas).'@en,skos:Concept,'Few'@en,FEW,<http://codes.wmo.int/bufr4/codeflag/0-20-008/1>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/FRQ>,FRQ,stable,'Frequent. Applicable only to cumulonimbus (CB).'@en,skos:Concept,'Frequent'@en,FRQ,<http://codes.wmo.int/bufr4/codeflag/0-20-008/12>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/ISOL>,ISOL,stable,'Isolated. Applicable only to cumulonimbus (CB).'@en,skos:Concept,'Isolated'@en,ISOL,<http://codes.wmo.int/bufr4/codeflag/0-20-008/8>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/LYR>,LYR,stable,'Layers. Applicable only to cumulonimbus (CB).'@en,skos:Concept,'Layers'@en,LYR,<http://codes.wmo.int/bufr4/codeflag/0-20-008/14>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/OCNL>,OCNL,stable,'Occasional. Applicable only to cumulonimbus (CB).'@en,skos:Concept,'Occasional'@en,OCNL,<http://codes.wmo.int/bufr4/codeflag/0-20-008/10>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/OVC>,OVC,stable,'Overcast (8 oktas).'@en,skos:Concept,'Overcast'@en,OVC,<http://codes.wmo.int/bufr4/codeflag/0-20-008/4>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/SCT>,SCT,stable,'Scattered (3 - 4 oktas).'@en,skos:Concept,'Scattered'@en,sCT,<http://codes.wmo.int/bufr4/codeflag/0-20-008/2>
+<http://codes.wmo.int/49-2/CloudAmountReportedAtAerodrome/SKC>,SKC,stable,'Sky clear (0 oktas).'@en,skos:Concept,'Sky clear'@en,SKC,<http://codes.wmo.int/bufr4/codeflag/0-20-008/0>

@@ -1,0 +1,400 @@
+@id,@notation,@status,rdf:type,rdfs:label
+<http://codes.wmo.int/306/4678/+DS>,+DS,stable,skos:Concept,'Heavy duststorm'@en
+<http://codes.wmo.int/306/4678/+DZ>,+DZ,stable,skos:Concept,'Heavy precipitation of drizzle'@en
+<http://codes.wmo.int/306/4678/+DZPL>,+DZPL,stable,skos:Concept,'Heavy precipitation of drizzle and ice pellets'@en
+<http://codes.wmo.int/306/4678/+DZPLRA>,+DZPLRA,stable,skos:Concept,"'Heavy precipitation of drizzle, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/+DZRA>,+DZRA,stable,skos:Concept,'Heavy precipitation of drizzle and rain'@en
+<http://codes.wmo.int/306/4678/+DZRAPL>,+DZRAPL,stable,skos:Concept,"'Heavy precipitation of drizzle, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+DZRASG>,+DZRASG,stable,skos:Concept,"'Heavy precipitation of drizzle, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/+DZRASN>,+DZRASN,stable,skos:Concept,"'Heavy precipitation of drizzle, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+DZSG>,+DZSG,stable,skos:Concept,'Heavy precipitation of drizzle and snow grains'@en
+<http://codes.wmo.int/306/4678/+DZSGRA>,+DZSGRA,stable,skos:Concept,"'Heavy precipitation of drizzle, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/+DZSN>,+DZSN,stable,skos:Concept,'Heavy precipitation of drizzle and snow'@en
+<http://codes.wmo.int/306/4678/+DZSNRA>,+DZSNRA,stable,skos:Concept,"'Heavy precipitation of drizzle, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+FZDZ>,+FZDZ,stable,skos:Concept,'Heavy precipitation of freezing drizzle'@en
+<http://codes.wmo.int/306/4678/+FZDZRA>,+FZDZRA,stable,skos:Concept,'Heavy precipitation of freezing drizzle and rain'@en
+<http://codes.wmo.int/306/4678/+FZRA>,+FZRA,stable,skos:Concept,'Heavy precipitation of freezng rain'@en
+<http://codes.wmo.int/306/4678/+FZRADZ>,+FZRADZ,stable,skos:Concept,'Heavy precipitation of freezing rain and drizzle'@en
+<http://codes.wmo.int/306/4678/+FZUP>,+FZUP,stable,skos:Concept,'Heavy unidentified freezing precipitation'@en
+<http://codes.wmo.int/306/4678/+PL>,+PL,stable,skos:Concept,'Heavy precipitation of ice pellets'@en
+<http://codes.wmo.int/306/4678/+PLDZ>,+PLDZ,stable,skos:Concept,'Heavy precipitation of ice pellets and drizzle'@en
+<http://codes.wmo.int/306/4678/+PLDZRA>,+PLDZRA,stable,skos:Concept,"'Heavy precipitation of ice pellets, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/+PLRA>,+PLRA,stable,skos:Concept,'Heavy precipitation of ice pellets and rain'@en
+<http://codes.wmo.int/306/4678/+PLRADZ>,+PLRADZ,stable,skos:Concept,"'Heavy precipitation of ice pellets, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/+PLRASN>,+PLRASN,stable,skos:Concept,"'Heavy precipitation of ice pellets, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+PLSG>,+PLSG,stable,skos:Concept,'Heavy precipitation of ice pellets and snow grains'@en
+<http://codes.wmo.int/306/4678/+PLSGSN>,+PLSGSN,stable,skos:Concept,"'Heavy precipitation of ice pellets, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/+PLSN>,+PLSN,stable,skos:Concept,'Heavy precipitation of ice pellets and snow'@en
+<http://codes.wmo.int/306/4678/+PLSNRA>,+PLSNRA,stable,skos:Concept,"'Heavy precipitation of ice pellets, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+PLSNSG>,+PLSNSG,stable,skos:Concept,"'Heavy precipitation of ice pellets, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/+RA>,+RA,stable,skos:Concept,'Heavy precipitation of rain'@en
+<http://codes.wmo.int/306/4678/+RADZ>,+RADZ,stable,skos:Concept,'Heavy precipitation of rain and drizzle'@en
+<http://codes.wmo.int/306/4678/+RADZPL>,+RADZPL,stable,skos:Concept,"'Heavy precipitation of rain, drizzle and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+RADZSG>,+RADZSG,stable,skos:Concept,"'Heavy precipitation of rain, drizzle and snow grains'@en"
+<http://codes.wmo.int/306/4678/+RADZSN>,+RADZSN,stable,skos:Concept,"'Heavy precipitation of rain, drizzle and snow'@en"
+<http://codes.wmo.int/306/4678/+RAPL>,+RAPL,stable,skos:Concept,'Heavy precipitation of rain and ice pellets'@en
+<http://codes.wmo.int/306/4678/+RAPLDZ>,+RAPLDZ,stable,skos:Concept,"'Heavy precipitation of rain, ice pellets and drizzle'@en"
+<http://codes.wmo.int/306/4678/+RAPLSN>,+RAPLSN,stable,skos:Concept,"'Heavy precipitation of rain, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/+RASG>,+RASG,stable,skos:Concept,'Heavy precipitation of rain and snow grains'@en
+<http://codes.wmo.int/306/4678/+RASGDZ>,+RASGDZ,stable,skos:Concept,"'Heavy precipitation of rain, snow grains and drizzle'@en"
+<http://codes.wmo.int/306/4678/+RASGSN>,+RASGSN,stable,skos:Concept,"'Heavy precipitation of rain, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/+RASN>,+RASN,stable,skos:Concept,'Heavy precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/+RASNDZ>,+RASNDZ,stable,skos:Concept,"'Heavy precipitation of rain, snow and drizzle'@en"
+<http://codes.wmo.int/306/4678/+RASNPL>,+RASNPL,stable,skos:Concept,"'Heavy precipitation of rain, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+RASNSG>,+RASNSG,stable,skos:Concept,"'Heavy precipitation of rain, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/+SG>,+SG,stable,skos:Concept,'Heavy precipitation of snow grains'@en
+<http://codes.wmo.int/306/4678/+SGDZ>,+SGDZ,stable,skos:Concept,'Heavy precipitation of snow grains and drizzle'@en
+<http://codes.wmo.int/306/4678/+SGDZRA>,+SGDZRA,stable,skos:Concept,"'Heavy precipitation of snow grains, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/+SGPL>,+SGPL,stable,skos:Concept,'Heavy precipitation of snow grains and ice pellets'@en
+<http://codes.wmo.int/306/4678/+SGPLSN>,+SGPLSN,stable,skos:Concept,"'Heavy precipitation of snow grains, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/+SGRA>,+SGRA,stable,skos:Concept,'Heavy precipitation of snow grains and rain'@en
+<http://codes.wmo.int/306/4678/+SGRADZ>,+SGRADZ,stable,skos:Concept,"'Heavy precipitation of snow grains, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/+SGRASN>,+SGRASN,stable,skos:Concept,"'Heavy precipitation of snow grains, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+SGSN>,+SGSN,stable,skos:Concept,'Heavy precipitation of snow grains and snow'@en
+<http://codes.wmo.int/306/4678/+SGSNPL>,+SGSNPL,stable,skos:Concept,"'Heavy precipitation of snow grains, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+SGSNRA>,+SGSNRA,stable,skos:Concept,"'Heavy precipitation of snow grains, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+SHGR>,+SHGR,stable,skos:Concept,'Heavy showery precipitation of hail'@en
+<http://codes.wmo.int/306/4678/+SHGRRA>,+SHGRRA,stable,skos:Concept,'Heavy showery precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/+SHGRRASN>,+SHGRRASN,stable,skos:Concept,"'Heavy showery precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+SHGRSN>,+SHGRSN,stable,skos:Concept,'Heavy showery precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/+SHGRSNRA>,+SHGRSNRA,stable,skos:Concept,"'Heavy showery precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+SHGS>,+SHGS,stable,skos:Concept,'Heavy showery precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+SHGSRA>,+SHGSRA,stable,skos:Concept,'Heavy showery precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/+SHGSRASN>,+SHGSRASN,stable,skos:Concept,"'Heavy showery precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+SHGSSN>,+SHGSSN,stable,skos:Concept,'Heavy showery precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/+SHGSSNRA>,+SHGSSNRA,stable,skos:Concept,"'Heavy showery precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+SHRA>,+SHRA,stable,skos:Concept,'Heavy showery precipitation of rain'@en
+<http://codes.wmo.int/306/4678/+SHRAGR>,+SHRAGR,stable,skos:Concept,'Heavy showery precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/+SHRAGRSN>,+SHRAGRSN,stable,skos:Concept,"'Heavy showery precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/+SHRAGS>,+SHRAGS,stable,skos:Concept,'Heavy showery precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+SHRAGSSN>,+SHRAGSSN,stable,skos:Concept,"'Heavy showery precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/+SHRASN>,+SHRASN,stable,skos:Concept,'Heavy showery precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/+SHRASNGR>,+SHRASNGR,stable,skos:Concept,"'Heavy showery precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/+SHRASNGS>,+SHRASNGS,stable,skos:Concept,"'Heavy showery precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/+SHSN>,+SHSN,stable,skos:Concept,'Heavy showery precipitation of snow'@en
+<http://codes.wmo.int/306/4678/+SHSNGR>,+SHSNGR,stable,skos:Concept,'Heavy showery precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/+SHSNGRRA>,+SHSNGRRA,stable,skos:Concept,"'Heavy showery precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/+SHSNGS>,+SHSNGS,stable,skos:Concept,'Heavy showery precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+SHSNGSRA>,+SHSNGSRA,stable,skos:Concept,"'Heavy showery precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/+SHSNRA>,+SHSNRA,stable,skos:Concept,'Heavy showery precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/+SHSNRAGR>,+SHSNRAGR,stable,skos:Concept,"'Heavy showery precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/+SHSNRAGS>,+SHSNRAGS,stable,skos:Concept,"'Heavy showery precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/+SHUP>,+SHUP,stable,skos:Concept,'Heavy unidentified showery precipitation'@en
+<http://codes.wmo.int/306/4678/+SN>,+SN,stable,skos:Concept,'Heavy precipitation of snow'@en
+<http://codes.wmo.int/306/4678/+SNDZ>,+SNDZ,stable,skos:Concept,'Heavy precipitation of snow and drizzle'@en
+<http://codes.wmo.int/306/4678/+SNDZRA>,+SNDZRA,stable,skos:Concept,"'Heavy precipitation of snow, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/+SNPL>,+SNPL,stable,skos:Concept,'Heavy precipitation of snow and ice pellets'@en
+<http://codes.wmo.int/306/4678/+SNPLRA>,+SNPLRA,stable,skos:Concept,"'Heavy precipitation of snow, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/+SNPLSG>,+SNPLSG,stable,skos:Concept,"'Heavy precipitation of snow, ice pellets and snow grains'@en"
+<http://codes.wmo.int/306/4678/+SNRA>,+SNRA,stable,skos:Concept,'Heavy precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/+SNRADZ>,+SNRADZ,stable,skos:Concept,"'Heavy precipitation of snow, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/+SNRAPL>,+SNRAPL,stable,skos:Concept,"'Heavy precipitation of snow, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+SNRASG>,+SNRASG,stable,skos:Concept,"'Heavy precipitation of snow, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/+SNSG>,+SNSG,stable,skos:Concept,'Heavy precipitation of snow and snow grains'@en
+<http://codes.wmo.int/306/4678/+SNSGPL>,+SNSGPL,stable,skos:Concept,"'Heavy precipitation of snow, snow grains and ice pellets'@en"
+<http://codes.wmo.int/306/4678/+SNSGRA>,+SNSGRA,stable,skos:Concept,"'Heavy precipitation of snow, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/+SS>,+SS,stable,skos:Concept,'Heavy sandstorm'@en
+<http://codes.wmo.int/306/4678/+TSGR>,+TSGR,stable,skos:Concept,'Thunderstorm with heavy precipitation of hail'@en
+<http://codes.wmo.int/306/4678/+TSGRRA>,+TSGRRA,stable,skos:Concept,'Thunderstorm with heavy precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/+TSGRRASN>,+TSGRRASN,stable,skos:Concept,"'Thunderstorm with heavy precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+TSGRSN>,+TSGRSN,stable,skos:Concept,'Thunderstorm with heavy precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/+TSGRSNRA>,+TSGRSNRA,stable,skos:Concept,"'Thunderstorm with heavy precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+TSGS>,+TSGS,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+TSGSRA>,+TSGSRA,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/+TSGSRASN>,+TSGSRASN,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/+TSGSSN>,+TSGSSN,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/+TSGSSNRA>,+TSGSSNRA,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/+TSRA>,+TSRA,stable,skos:Concept,'Thunderstorm with heavy precipitation of rain'@en
+<http://codes.wmo.int/306/4678/+TSRAGR>,+TSRAGR,stable,skos:Concept,'Thunderstorm with heavy precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/+TSRAGRSN>,+TSRAGRSN,stable,skos:Concept,"'Thunderstorm with heavy precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/+TSRAGS>,+TSRAGS,stable,skos:Concept,'Thunderstorm with heavy precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+TSRAGSSN>,+TSRAGSSN,stable,skos:Concept,"'Thunderstorm with heavy precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/+TSRASN>,+TSRASN,stable,skos:Concept,'Thunderstorm with heavy precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/+TSRASNGR>,+TSRASNGR,stable,skos:Concept,"'Thunderstorm with heavy precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/+TSRASNGS>,+TSRASNGS,stable,skos:Concept,"'Thunderstorm with heavy precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/+TSSN>,+TSSN,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow'@en
+<http://codes.wmo.int/306/4678/+TSSNGR>,+TSSNGR,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/+TSSNGRRA>,+TSSNGRRA,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/+TSSNGS>,+TSSNGS,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/+TSSNGSRA>,+TSSNGSRA,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/+TSSNRA>,+TSSNRA,stable,skos:Concept,'Thunderstorm with heavy precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/+TSSNRAGR>,+TSSNRAGR,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/+TSSNRAGS>,+TSSNRAGS,stable,skos:Concept,"'Thunderstorm with heavy precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/+TSUP>,+TSUP,stable,skos:Concept,'Thunderstorm with heavy precipitation of unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/+UP>,+UP,stable,skos:Concept,'Heavy unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/-DZ>,-DZ,stable,skos:Concept,'Light precipitation of drizzle'@en
+<http://codes.wmo.int/306/4678/-DZPL>,-DZPL,stable,skos:Concept,'Light precipitation of drizzle and ice pellets'@en
+<http://codes.wmo.int/306/4678/-DZPLRA>,-DZPLRA,stable,skos:Concept,"'Light precipitation of drizzle, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/-DZRA>,-DZRA,stable,skos:Concept,'Light precipitation of drizzle and rain'@en
+<http://codes.wmo.int/306/4678/-DZRAPL>,-DZRAPL,stable,skos:Concept,"'Light precipitation of drizzle, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-DZRASG>,-DZRASG,stable,skos:Concept,"'Light precipitation of drizzle, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/-DZRASN>,-DZRASN,stable,skos:Concept,"'Light precipitation of drizzle, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-DZSG>,-DZSG,stable,skos:Concept,'Light precipitation of drizzle and snow grains'@en
+<http://codes.wmo.int/306/4678/-DZSGRA>,-DZSGRA,stable,skos:Concept,"'Light precipitation of drizzle, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/-DZSN>,-DZSN,stable,skos:Concept,'Light precipitation of drizzle and snow'@en
+<http://codes.wmo.int/306/4678/-DZSNRA>,-DZSNRA,stable,skos:Concept,"'Light precipitation of drizzle, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-FZDZ>,-FZDZ,stable,skos:Concept,'Light precipitation of freezing drizzle'@en
+<http://codes.wmo.int/306/4678/-FZDZRA>,-FZDZRA,stable,skos:Concept,'Light precipitation of freezing drizzle and rain'@en
+<http://codes.wmo.int/306/4678/-FZRA>,-FZRA,stable,skos:Concept,'Light precipitation of freezng rain'@en
+<http://codes.wmo.int/306/4678/-FZRADZ>,-FZRADZ,stable,skos:Concept,'Light precipitation of freezing rain and drizzle'@en
+<http://codes.wmo.int/306/4678/-FZUP>,-FZUP,stable,skos:Concept,'Light unidentified freezing precipitation'@en
+<http://codes.wmo.int/306/4678/-PL>,-PL,stable,skos:Concept,'Light precipitation of ice pellets'@en
+<http://codes.wmo.int/306/4678/-PLDZ>,-PLDZ,stable,skos:Concept,'Light precipitation of ice pellets and drizzle'@en
+<http://codes.wmo.int/306/4678/-PLDZRA>,-PLDZRA,stable,skos:Concept,"'Light precipitation of ice pellets, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/-PLRA>,-PLRA,stable,skos:Concept,'Light precipitation of ice pellets and rain'@en
+<http://codes.wmo.int/306/4678/-PLRADZ>,-PLRADZ,stable,skos:Concept,"'Light precipitation of ice pellets, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/-PLRASN>,-PLRASN,stable,skos:Concept,"'Light precipitation of ice pellets, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-PLSG>,-PLSG,stable,skos:Concept,'Light precipitation of ice pellets and snow grains'@en
+<http://codes.wmo.int/306/4678/-PLSGSN>,-PLSGSN,stable,skos:Concept,"'Light precipitation of ice pellets, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/-PLSN>,-PLSN,stable,skos:Concept,'Light precipitation of ice pellets and snow'@en
+<http://codes.wmo.int/306/4678/-PLSNRA>,-PLSNRA,stable,skos:Concept,"'Light precipitation of ice pellets, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-PLSNSG>,-PLSNSG,stable,skos:Concept,"'Light precipitation of ice pellets, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/-RA>,-RA,stable,skos:Concept,'Light precipitation of rain'@en
+<http://codes.wmo.int/306/4678/-RADZ>,-RADZ,stable,skos:Concept,'Light precipitation of rain and drizzle'@en
+<http://codes.wmo.int/306/4678/-RADZPL>,-RADZPL,stable,skos:Concept,"'Light precipitation of rain, drizzle and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-RADZSG>,-RADZSG,stable,skos:Concept,"'Light precipitation of rain, drizzle and snow grains'@en"
+<http://codes.wmo.int/306/4678/-RADZSN>,-RADZSN,stable,skos:Concept,"'Light precipitation of rain, drizzle and snow'@en"
+<http://codes.wmo.int/306/4678/-RAPL>,-RAPL,stable,skos:Concept,'Light precipitation of rain and ice pellets'@en
+<http://codes.wmo.int/306/4678/-RAPLDZ>,-RAPLDZ,stable,skos:Concept,"'Light precipitation of rain, ice pellets and drizzle'@en"
+<http://codes.wmo.int/306/4678/-RAPLSN>,-RAPLSN,stable,skos:Concept,"'Light precipitation of rain, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/-RASG>,-RASG,stable,skos:Concept,'Light precipitation of rain and snow grains'@en
+<http://codes.wmo.int/306/4678/-RASGDZ>,-RASGDZ,stable,skos:Concept,"'Light precipitation of rain, snow grains and drizzle'@en"
+<http://codes.wmo.int/306/4678/-RASGSN>,-RASGSN,stable,skos:Concept,"'Light precipitation of rain, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/-RASN>,-RASN,stable,skos:Concept,'Light precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/-RASNDZ>,-RASNDZ,stable,skos:Concept,"'Light precipitation of rain, snow and drizzle'@en"
+<http://codes.wmo.int/306/4678/-RASNPL>,-RASNPL,stable,skos:Concept,"'Light precipitation of rain, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-RASNSG>,-RASNSG,stable,skos:Concept,"'Light precipitation of rain, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/-SG>,-SG,stable,skos:Concept,'Light precipitation of snow grains'@en
+<http://codes.wmo.int/306/4678/-SGDZ>,-SGDZ,stable,skos:Concept,'Light precipitation of snow grains and drizzle'@en
+<http://codes.wmo.int/306/4678/-SGDZRA>,-SGDZRA,stable,skos:Concept,"'Light precipitation of snow grains, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/-SGPL>,-SGPL,stable,skos:Concept,'Light precipitation of snow grains and ice pellets'@en
+<http://codes.wmo.int/306/4678/-SGPLSN>,-SGPLSN,stable,skos:Concept,"'Light precipitation of snow grains, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/-SGRA>,-SGRA,stable,skos:Concept,'Light precipitation of snow grains and rain'@en
+<http://codes.wmo.int/306/4678/-SGRADZ>,-SGRADZ,stable,skos:Concept,"'Light precipitation of snow grains, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/-SGRASN>,-SGRASN,stable,skos:Concept,"'Light precipitation of snow grains, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-SGSN>,-SGSN,stable,skos:Concept,'Light precipitation of snow grains and snow'@en
+<http://codes.wmo.int/306/4678/-SGSNPL>,-SGSNPL,stable,skos:Concept,"'Light precipitation of snow grains, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-SGSNRA>,-SGSNRA,stable,skos:Concept,"'Light precipitation of snow grains, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-SHGR>,-SHGR,stable,skos:Concept,'Light showery precipitation of hail'@en
+<http://codes.wmo.int/306/4678/-SHGRRA>,-SHGRRA,stable,skos:Concept,'Light showery precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/-SHGRRASN>,-SHGRRASN,stable,skos:Concept,"'Light showery precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-SHGRSN>,-SHGRSN,stable,skos:Concept,'Light showery precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/-SHGRSNRA>,-SHGRSNRA,stable,skos:Concept,"'Light showery precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-SHGS>,-SHGS,stable,skos:Concept,'Light showery precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-SHGSRA>,-SHGSRA,stable,skos:Concept,'Light showery precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/-SHGSRASN>,-SHGSRASN,stable,skos:Concept,"'Light showery precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-SHGSSN>,-SHGSSN,stable,skos:Concept,'Light showery precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/-SHGSSNRA>,-SHGSSNRA,stable,skos:Concept,"'Light showery precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-SHRA>,-SHRA,stable,skos:Concept,'Light showery precipitation of rain'@en
+<http://codes.wmo.int/306/4678/-SHRAGR>,-SHRAGR,stable,skos:Concept,'Light showery precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/-SHRAGRSN>,-SHRAGRSN,stable,skos:Concept,"'Light showery precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/-SHRAGS>,-SHRAGS,stable,skos:Concept,'Light showery precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-SHRAGSSN>,-SHRAGSSN,stable,skos:Concept,"'Light showery precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/-SHRASN>,-SHRASN,stable,skos:Concept,'Light showery precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/-SHRASNGR>,-SHRASNGR,stable,skos:Concept,"'Light showery precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/-SHRASNGS>,-SHRASNGS,stable,skos:Concept,"'Light showery precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/-SHSN>,-SHSN,stable,skos:Concept,'Light showery precipitation of snow'@en
+<http://codes.wmo.int/306/4678/-SHSNGR>,-SHSNGR,stable,skos:Concept,'Light showery precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/-SHSNGRRA>,-SHSNGRRA,stable,skos:Concept,"'Light showery precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/-SHSNGS>,-SHSNGS,stable,skos:Concept,'Light showery precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-SHSNGSRA>,-SHSNGSRA,stable,skos:Concept,"'Light showery precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/-SHSNRA>,-SHSNRA,stable,skos:Concept,'Light showery precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/-SHSNRAGR>,-SHSNRAGR,stable,skos:Concept,"'Light showery precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/-SHSNRAGS>,-SHSNRAGS,stable,skos:Concept,"'Light showery precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/-SHUP>,-SHUP,stable,skos:Concept,'Light unidentified showery precipitation'@en
+<http://codes.wmo.int/306/4678/-SN>,-SN,stable,skos:Concept,'Light precipitation of snow'@en
+<http://codes.wmo.int/306/4678/-SNDZ>,-SNDZ,stable,skos:Concept,'Light precipitation of snow and drizzle'@en
+<http://codes.wmo.int/306/4678/-SNDZRA>,-SNDZRA,stable,skos:Concept,"'Light precipitation of snow, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/-SNPL>,-SNPL,stable,skos:Concept,'Light precipitation of snow and ice pellets'@en
+<http://codes.wmo.int/306/4678/-SNPLRA>,-SNPLRA,stable,skos:Concept,"'Light precipitation of snow, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/-SNPLSG>,-SNPLSG,stable,skos:Concept,"'Light precipitation of snow, ice pellets and snow grains'@en"
+<http://codes.wmo.int/306/4678/-SNRA>,-SNRA,stable,skos:Concept,'Light precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/-SNRADZ>,-SNRADZ,stable,skos:Concept,"'Light precipitation of snow, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/-SNRAPL>,-SNRAPL,stable,skos:Concept,"'Light precipitation of snow, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-SNRASG>,-SNRASG,stable,skos:Concept,"'Light precipitation of snow, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/-SNSG>,-SNSG,stable,skos:Concept,'Light precipitation of snow and snow grains'@en
+<http://codes.wmo.int/306/4678/-SNSGPL>,-SNSGPL,stable,skos:Concept,"'Light precipitation of snow, snow grains and ice pellets'@en"
+<http://codes.wmo.int/306/4678/-SNSGRA>,-SNSGRA,stable,skos:Concept,"'Light precipitation of snow, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/-TSGR>,-TSGR,stable,skos:Concept,'Thunderstorm with light precipitation of hail'@en
+<http://codes.wmo.int/306/4678/-TSGRRA>,-TSGRRA,stable,skos:Concept,'Thunderstorm with light precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/-TSGRRASN>,-TSGRRASN,stable,skos:Concept,"'Thunderstorm with light precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-TSGRSN>,-TSGRSN,stable,skos:Concept,'Thunderstorm with light precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/-TSGRSNRA>,-TSGRSNRA,stable,skos:Concept,"'Thunderstorm with light precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-TSGS>,-TSGS,stable,skos:Concept,'Thunderstorm with light precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-TSGSRA>,-TSGSRA,stable,skos:Concept,'Thunderstorm with light precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/-TSGSRASN>,-TSGSRASN,stable,skos:Concept,"'Thunderstorm with light precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/-TSGSSN>,-TSGSSN,stable,skos:Concept,'Thunderstorm with light precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/-TSGSSNRA>,-TSGSSNRA,stable,skos:Concept,"'Thunderstorm with light precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/-TSRA>,-TSRA,stable,skos:Concept,'Thunderstorm with light precipitation of rain'@en
+<http://codes.wmo.int/306/4678/-TSRAGR>,-TSRAGR,stable,skos:Concept,'Thunderstorm with light precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/-TSRAGRSN>,-TSRAGRSN,stable,skos:Concept,"'Thunderstorm with light precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/-TSRAGS>,-TSRAGS,stable,skos:Concept,'Thunderstorm with light precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-TSRAGSSN>,-TSRAGSSN,stable,skos:Concept,"'Thunderstorm with light precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/-TSRASN>,-TSRASN,stable,skos:Concept,'Thunderstorm with light precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/-TSRASNGR>,-TSRASNGR,stable,skos:Concept,"'Thunderstorm with light precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/-TSRASNGS>,-TSRASNGS,stable,skos:Concept,"'Thunderstorm with light precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/-TSSN>,-TSSN,stable,skos:Concept,'Thunderstorm with light precipitation of snow'@en
+<http://codes.wmo.int/306/4678/-TSSNGR>,-TSSNGR,stable,skos:Concept,'Thunderstorm with light precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/-TSSNGRRA>,-TSSNGRRA,stable,skos:Concept,"'Thunderstorm with light precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/-TSSNGS>,-TSSNGS,stable,skos:Concept,'Thunderstorm with light precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/-TSSNGSRA>,-TSSNGSRA,stable,skos:Concept,"'Thunderstorm with light precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/-TSSNRA>,-TSSNRA,stable,skos:Concept,'Thunderstorm with light precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/-TSSNRAGR>,-TSSNRAGR,stable,skos:Concept,"'Thunderstorm with light precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/-TSSNRAGS>,-TSSNRAGS,stable,skos:Concept,"'Thunderstorm with light precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/-TSUP>,-TSUP,stable,skos:Concept,'Thunderstorm with light unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/-UP>,-UP,stable,skos:Concept,'Light unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/BCFG>,BCFG,stable,skos:Concept,'Patches of fog'@en
+<http://codes.wmo.int/306/4678/BLDU>,BLDU,stable,skos:Concept,'Blowing dust'@en
+<http://codes.wmo.int/306/4678/BLSA>,BLSA,stable,skos:Concept,'Blowing sand'@en
+<http://codes.wmo.int/306/4678/BLSN>,BLSN,stable,skos:Concept,'Blowing snow'@en
+<http://codes.wmo.int/306/4678/BR>,BR,stable,skos:Concept,'Mist'@en
+<http://codes.wmo.int/306/4678/DRDU>,DRDU,stable,skos:Concept,'Low drifting dust'@en
+<http://codes.wmo.int/306/4678/DRSA>,DRSA,stable,skos:Concept,'Low drifting sand'@en
+<http://codes.wmo.int/306/4678/DRSN>,DRSN,stable,skos:Concept,'Low drifting snow'@en
+<http://codes.wmo.int/306/4678/DS>,DS,stable,skos:Concept,'Duststorm'@en
+<http://codes.wmo.int/306/4678/DU>,DU,stable,skos:Concept,'Dust'@en
+<http://codes.wmo.int/306/4678/DZ>,DZ,stable,skos:Concept,'Precipitation of drizzle'@en
+<http://codes.wmo.int/306/4678/DZPL>,DZPL,stable,skos:Concept,'Precipitation of drizzle and ice pellets'@en
+<http://codes.wmo.int/306/4678/DZPLRA>,DZPLRA,stable,skos:Concept,"'Precipitation of drizzle, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/DZRA>,DZRA,stable,skos:Concept,'Precipitation of drizzle and rain'@en
+<http://codes.wmo.int/306/4678/DZRAPL>,DZRAPL,stable,skos:Concept,"'Precipitation of drizzle, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/DZRASG>,DZRASG,stable,skos:Concept,"'Precipitation of drizzle, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/DZRASN>,DZRASN,stable,skos:Concept,"'Precipitation of drizzle, rain and snow'@en"
+<http://codes.wmo.int/306/4678/DZSG>,DZSG,stable,skos:Concept,'Precipitation of drizzle and snow grains'@en
+<http://codes.wmo.int/306/4678/DZSGRA>,DZSGRA,stable,skos:Concept,"'Precipitation of drizzle, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/DZSN>,DZSN,stable,skos:Concept,'Precipitation of drizzle and snow'@en
+<http://codes.wmo.int/306/4678/DZSNRA>,DZSNRA,stable,skos:Concept,"'Precipitation of drizzle, snow and rain'@en"
+<http://codes.wmo.int/306/4678/FC>,FC,stable,skos:Concept,'Funnel cloud(s) (tornado or water-spout)'@en
+<http://codes.wmo.int/306/4678/FG>,FG,stable,skos:Concept,'Fog'@en
+<http://codes.wmo.int/306/4678/FU>,FU,stable,skos:Concept,'Smoke'@en
+<http://codes.wmo.int/306/4678/FZDZ>,FZDZ,stable,skos:Concept,'Precipitation of freezing drizzle'@en
+<http://codes.wmo.int/306/4678/FZDZRA>,FZDZRA,stable,skos:Concept,'Precipitation of freezing drizzle and rain'@en
+<http://codes.wmo.int/306/4678/FZFG>,FZFG,stable,skos:Concept,'Freezing fog'@en
+<http://codes.wmo.int/306/4678/FZRA>,FZRA,stable,skos:Concept,'Precipitation of freezng rain'@en
+<http://codes.wmo.int/306/4678/FZRADZ>,FZRADZ,stable,skos:Concept,'Precipitation of freezing rain and drizzle'@en
+<http://codes.wmo.int/306/4678/FZUP>,FZUP,stable,skos:Concept,'Unidentified freezing precipitation'@en
+<http://codes.wmo.int/306/4678/HZ>,HZ,stable,skos:Concept,'Haze'@en
+<http://codes.wmo.int/306/4678/MIFG>,MIFG,stable,skos:Concept,'Shallow fog'@en
+<http://codes.wmo.int/306/4678/PL>,PL,stable,skos:Concept,'Precipitation of ice pellets'@en
+<http://codes.wmo.int/306/4678/PLDZ>,PLDZ,stable,skos:Concept,'Precipitation of ice pellets and drizzle'@en
+<http://codes.wmo.int/306/4678/PLDZRA>,PLDZRA,stable,skos:Concept,"'Precipitation of ice pellets, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/PLRA>,PLRA,stable,skos:Concept,'Precipitation of ice pellets and rain'@en
+<http://codes.wmo.int/306/4678/PLRADZ>,PLRADZ,stable,skos:Concept,"'Precipitation of ice pellets, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/PLRASN>,PLRASN,stable,skos:Concept,"'Precipitation of ice pellets, rain and snow'@en"
+<http://codes.wmo.int/306/4678/PLSG>,PLSG,stable,skos:Concept,'Precipitation of ice pellets and snow grains'@en
+<http://codes.wmo.int/306/4678/PLSGSN>,PLSGSN,stable,skos:Concept,"'Precipitation of ice pellets, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/PLSN>,PLSN,stable,skos:Concept,'Precipitation of ice pellets and snow'@en
+<http://codes.wmo.int/306/4678/PLSNRA>,PLSNRA,stable,skos:Concept,"'Precipitation of ice pellets, snow and rain'@en"
+<http://codes.wmo.int/306/4678/PLSNSG>,PLSNSG,stable,skos:Concept,"'Precipitation of ice pellets, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/PO>,PO,stable,skos:Concept,'Dust/sand whirls (dust devils)'@en
+<http://codes.wmo.int/306/4678/PRFG>,PRFG,stable,skos:Concept,'Partial fog (covering part of the aerodrome)'@en
+<http://codes.wmo.int/306/4678/RA>,RA,stable,skos:Concept,'Precipitation of rain'@en
+<http://codes.wmo.int/306/4678/RADZ>,RADZ,stable,skos:Concept,'Precipitation of rain and drizzle'@en
+<http://codes.wmo.int/306/4678/RADZPL>,RADZPL,stable,skos:Concept,"'Precipitation of rain, drizzle and ice pellets'@en"
+<http://codes.wmo.int/306/4678/RADZSG>,RADZSG,stable,skos:Concept,"'Precipitation of rain, drizzle and snow grains'@en"
+<http://codes.wmo.int/306/4678/RADZSN>,RADZSN,stable,skos:Concept,"'Precipitation of rain, drizzle and snow'@en"
+<http://codes.wmo.int/306/4678/RAPL>,RAPL,stable,skos:Concept,'Precipitation of rain and ice pellets'@en
+<http://codes.wmo.int/306/4678/RAPLDZ>,RAPLDZ,stable,skos:Concept,"'Precipitation of rain, ice pellets and drizzle'@en"
+<http://codes.wmo.int/306/4678/RAPLSN>,RAPLSN,stable,skos:Concept,"'Precipitation of rain, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/RASG>,RASG,stable,skos:Concept,'Precipitation of rain and snow grains'@en
+<http://codes.wmo.int/306/4678/RASGDZ>,RASGDZ,stable,skos:Concept,"'Precipitation of rain, snow grains and drizzle'@en"
+<http://codes.wmo.int/306/4678/RASGSN>,RASGSN,stable,skos:Concept,"'Precipitation of rain, snow grains and snow'@en"
+<http://codes.wmo.int/306/4678/RASN>,RASN,stable,skos:Concept,'Precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/RASNDZ>,RASNDZ,stable,skos:Concept,"'Precipitation of rain, snow and drizzle'@en"
+<http://codes.wmo.int/306/4678/RASNPL>,RASNPL,stable,skos:Concept,"'Precipitation of rain, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/RASNSG>,RASNSG,stable,skos:Concept,"'Precipitation of rain, snow and snow grains'@en"
+<http://codes.wmo.int/306/4678/SA>,SA,stable,skos:Concept,'Sand'@en
+<http://codes.wmo.int/306/4678/SG>,SG,stable,skos:Concept,'Precipitation of snow grains'@en
+<http://codes.wmo.int/306/4678/SGDZ>,SGDZ,stable,skos:Concept,'Precipitation of snow grains and drizzle'@en
+<http://codes.wmo.int/306/4678/SGDZRA>,SGDZRA,stable,skos:Concept,"'Precipitation of snow grains, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/SGPL>,SGPL,stable,skos:Concept,'Precipitation of snow grains and ice pellets'@en
+<http://codes.wmo.int/306/4678/SGPLSN>,SGPLSN,stable,skos:Concept,"'Precipitation of snow grains, ice pellets and snow'@en"
+<http://codes.wmo.int/306/4678/SGRA>,SGRA,stable,skos:Concept,'Precipitation of snow grains and rain'@en
+<http://codes.wmo.int/306/4678/SGRADZ>,SGRADZ,stable,skos:Concept,"'Precipitation of snow grains, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/SGRASN>,SGRASN,stable,skos:Concept,"'Precipitation of snow grains, rain and snow'@en"
+<http://codes.wmo.int/306/4678/SGSN>,SGSN,stable,skos:Concept,'Precipitation of snow grains and snow'@en
+<http://codes.wmo.int/306/4678/SGSNPL>,SGSNPL,stable,skos:Concept,"'Precipitation of snow grains, snow and ice pellets'@en"
+<http://codes.wmo.int/306/4678/SGSNRA>,SGSNRA,stable,skos:Concept,"'Precipitation of snow grains, snow and rain'@en"
+<http://codes.wmo.int/306/4678/SHGR>,SHGR,stable,skos:Concept,'Showery precipitation of hail'@en
+<http://codes.wmo.int/306/4678/SHGRRA>,SHGRRA,stable,skos:Concept,'Showery precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/SHGRRASN>,SHGRRASN,stable,skos:Concept,"'Showery precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/SHGRSN>,SHGRSN,stable,skos:Concept,'Showery precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/SHGRSNRA>,SHGRSNRA,stable,skos:Concept,"'Showery precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/SHGS>,SHGS,stable,skos:Concept,'Showery precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/SHGSRA>,SHGSRA,stable,skos:Concept,'Showery precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/SHGSRASN>,SHGSRASN,stable,skos:Concept,"'Showery precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/SHGSSN>,SHGSSN,stable,skos:Concept,'Showery precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/SHGSSNRA>,SHGSSNRA,stable,skos:Concept,"'Showery precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/SHRA>,SHRA,stable,skos:Concept,'Showery precipitation of rain'@en
+<http://codes.wmo.int/306/4678/SHRAGR>,SHRAGR,stable,skos:Concept,'Showery precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/SHRAGRSN>,SHRAGRSN,stable,skos:Concept,"'Showery precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/SHRAGS>,SHRAGS,stable,skos:Concept,'Showery precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/SHRAGSSN>,SHRAGSSN,stable,skos:Concept,"'Showery precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/SHRASN>,SHRASN,stable,skos:Concept,'Showery precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/SHRASNGR>,SHRASNGR,stable,skos:Concept,"'Showery precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/SHRASNGS>,SHRASNGS,stable,skos:Concept,"'Showery precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/SHSN>,SHSN,stable,skos:Concept,'Showery precipitation of snow'@en
+<http://codes.wmo.int/306/4678/SHSNGR>,SHSNGR,stable,skos:Concept,'Showery precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/SHSNGRRA>,SHSNGRRA,stable,skos:Concept,"'Showery precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/SHSNGS>,SHSNGS,stable,skos:Concept,'Showery precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/SHSNGSRA>,SHSNGSRA,stable,skos:Concept,"'Showery precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/SHSNRA>,SHSNRA,stable,skos:Concept,'Showery precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/SHSNRAGR>,SHSNRAGR,stable,skos:Concept,"'Showery precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/SHSNRAGS>,SHSNRAGS,stable,skos:Concept,"'Showery precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/SHUP>,SHUP,stable,skos:Concept,'Unidentified showery precipitation'@en
+<http://codes.wmo.int/306/4678/SN>,SN,stable,skos:Concept,'Precipitation of snow'@en
+<http://codes.wmo.int/306/4678/SNDZ>,SNDZ,stable,skos:Concept,'Precipitation of snow and drizzle'@en
+<http://codes.wmo.int/306/4678/SNDZRA>,SNDZRA,stable,skos:Concept,"'Precipitation of snow, drizzle and rain'@en"
+<http://codes.wmo.int/306/4678/SNPL>,SNPL,stable,skos:Concept,'Precipitation of snow and ice pellets'@en
+<http://codes.wmo.int/306/4678/SNPLRA>,SNPLRA,stable,skos:Concept,"'Precipitation of snow, ice pellets and rain'@en"
+<http://codes.wmo.int/306/4678/SNPLSG>,SNPLSG,stable,skos:Concept,"'Precipitation of snow, ice pellets and snow grains'@en"
+<http://codes.wmo.int/306/4678/SNRA>,SNRA,stable,skos:Concept,'Precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/SNRADZ>,SNRADZ,stable,skos:Concept,"'Precipitation of snow, rain and drizzle'@en"
+<http://codes.wmo.int/306/4678/SNRAPL>,SNRAPL,stable,skos:Concept,"'Precipitation of snow, rain and ice pellets'@en"
+<http://codes.wmo.int/306/4678/SNRASG>,SNRASG,stable,skos:Concept,"'Precipitation of snow, rain and snow grains'@en"
+<http://codes.wmo.int/306/4678/SNSG>,SNSG,stable,skos:Concept,'Precipitation of snow and snow grains'@en
+<http://codes.wmo.int/306/4678/SNSGPL>,SNSGPL,stable,skos:Concept,"'Precipitation of snow, snow grains and ice pellets'@en"
+<http://codes.wmo.int/306/4678/SNSGRA>,SNSGRA,stable,skos:Concept,"'Precipitation of snow, snow grains and rain'@en"
+<http://codes.wmo.int/306/4678/SQ>,SQ,stable,skos:Concept,'Squalls'@en
+<http://codes.wmo.int/306/4678/SS>,SS,stable,skos:Concept,'Sandstorm'@en
+<http://codes.wmo.int/306/4678/TS>,TS,stable,skos:Concept,'Thunderstorm'@en
+<http://codes.wmo.int/306/4678/TSGR>,TSGR,stable,skos:Concept,'Thunderstorm with precipitation of hail'@en
+<http://codes.wmo.int/306/4678/TSGRRA>,TSGRRA,stable,skos:Concept,'Thunderstorm with precipitation of hail and rain'@en
+<http://codes.wmo.int/306/4678/TSGRRASN>,TSGRRASN,stable,skos:Concept,"'Thunderstorm with precipitation of hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/TSGRSN>,TSGRSN,stable,skos:Concept,'Thunderstorm with precipitation of hail and snow'@en
+<http://codes.wmo.int/306/4678/TSGRSNRA>,TSGRSNRA,stable,skos:Concept,"'Thunderstorm with precipitation of hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/TSGS>,TSGS,stable,skos:Concept,'Thunderstorm with precipitation of snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/TSGSRA>,TSGSRA,stable,skos:Concept,'Thunderstorm with precipitation of snow pellets/small hail and rain'@en
+<http://codes.wmo.int/306/4678/TSGSRASN>,TSGSRASN,stable,skos:Concept,"'Thunderstorm with precipitation of snow pellets/small hail, rain and snow'@en"
+<http://codes.wmo.int/306/4678/TSGSSN>,TSGSSN,stable,skos:Concept,'Thunderstorm with precipitation of snow pellets/small hail and snow'@en
+<http://codes.wmo.int/306/4678/TSGSSNRA>,TSGSSNRA,stable,skos:Concept,"'Thunderstorm with precipitation of snow pellets/small hail, snow and rain'@en"
+<http://codes.wmo.int/306/4678/TSRA>,TSRA,stable,skos:Concept,'Thunderstorm with precipitation of rain'@en
+<http://codes.wmo.int/306/4678/TSRAGR>,TSRAGR,stable,skos:Concept,'Thunderstorm with precipitation of rain and hail'@en
+<http://codes.wmo.int/306/4678/TSRAGRSN>,TSRAGRSN,stable,skos:Concept,"'Thunderstorm with precipitation of rain, hail and snow'@en"
+<http://codes.wmo.int/306/4678/TSRAGS>,TSRAGS,stable,skos:Concept,'Thunderstorm with precipitation of rain and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/TSRAGSSN>,TSRAGSSN,stable,skos:Concept,"'Thunderstorm with precipitation of rain, snow pellets/small hail and snow'@en"
+<http://codes.wmo.int/306/4678/TSRASN>,TSRASN,stable,skos:Concept,'Thunderstorm with precipitation of rain and snow'@en
+<http://codes.wmo.int/306/4678/TSRASNGR>,TSRASNGR,stable,skos:Concept,"'Thunderstorm with precipitation of rain, snow and hail'@en"
+<http://codes.wmo.int/306/4678/TSRASNGS>,TSRASNGS,stable,skos:Concept,"'Thunderstorm with precipitation of rain, snow and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/TSSN>,TSSN,stable,skos:Concept,'Thunderstorm with precipitation of snow'@en
+<http://codes.wmo.int/306/4678/TSSNGR>,TSSNGR,stable,skos:Concept,'Thunderstorm with precipitation of snow and hail'@en
+<http://codes.wmo.int/306/4678/TSSNGRRA>,TSSNGRRA,stable,skos:Concept,"'Thunderstorm with precipitation of snow, hail and rain'@en"
+<http://codes.wmo.int/306/4678/TSSNGS>,TSSNGS,stable,skos:Concept,'Thunderstorm with precipitation of snow and snow pellets/small hail'@en
+<http://codes.wmo.int/306/4678/TSSNGSRA>,TSSNGSRA,stable,skos:Concept,"'Thunderstorm with precipitation of snow, snow pellets/small hail and rain'@en"
+<http://codes.wmo.int/306/4678/TSSNRA>,TSSNRA,stable,skos:Concept,'Thunderstorm with precipitation of snow and rain'@en
+<http://codes.wmo.int/306/4678/TSSNRAGR>,TSSNRAGR,stable,skos:Concept,"'Thunderstorm with precipitation of snow, rain and hail'@en"
+<http://codes.wmo.int/306/4678/TSSNRAGS>,TSSNRAGS,stable,skos:Concept,"'Thunderstorm with precipitation of snow, rain and snow pellets/small hail'@en"
+<http://codes.wmo.int/306/4678/TSUP>,TSUP,stable,skos:Concept,'Thunderstorm with unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/UP>,UP,stable,skos:Concept,'Unidentified precipitation'@en
+<http://codes.wmo.int/306/4678/VA>,VA,stable,skos:Concept,'Volcanic ash'@en
+<http://codes.wmo.int/306/4678/VCBLDU>,VCBLDU,stable,skos:Concept,'Blowing dust in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCBLSA>,VCBLSA,stable,skos:Concept,'Blowing sand in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCBLSN>,VCBLSN,stable,skos:Concept,'Blowing snow in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCDS>,VCDS,stable,skos:Concept,'Duststorm in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCFC>,VCFC,stable,skos:Concept,'Funnel cloud(s) (tornado or water-spout) in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCFG>,VCFG,stable,skos:Concept,'Fog in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCPO>,VCPO,stable,skos:Concept,'Dust/sand whirls (dust devils) in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCSH>,VCSH,stable,skos:Concept,'Shower(s) in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCSS>,VCSS,stable,skos:Concept,'Sandstorm in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCTS>,VCTS,stable,skos:Concept,'Thunderstorm in the vicinity'@en
+<http://codes.wmo.int/306/4678/VCVA>,VCVA,stable,skos:Concept,'Volcanic ash in the vicinity'@en
