@@ -1,3 +1,3 @@
-@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation,skos:related
-<http://codes.wmo.int/49-2/SigConvectiveCloudType/CB>,CB,stable,'Cumulonimbus'@en,skos:Concept,'Cumulonimbus'@en,CB,<http://codes.wmo.int/bufr4/codeflag/0-20-012/9>
-<http://codes.wmo.int/49-2/SigConvectiveCloudType/TCU>,TCU,stable,'Towering cumulus'@en,skos:Concept,'Towering cumulus'@en,TCU,<http://codes.wmo.int/bufr4/codeflag/0-20-012/32>
+id,notation,status,description,label,related
+http://codes.wmo.int/49-2/SigConvectiveCloudType/CB,CB,stable,Cumulonimbus,Cumulonimbus,http://codes.wmo.int/bufr4/codeflag/0-20-012/9
+http://codes.wmo.int/49-2/SigConvectiveCloudType/TCU,TCU,stable,Towering cumulus,Towering cumulus,http://codes.wmo.int/bufr4/codeflag/0-20-012/32

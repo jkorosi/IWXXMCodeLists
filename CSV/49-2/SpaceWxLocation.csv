@@ -1,8 +1,8 @@
-@id,@notation,@status,dct:description,rdf:type,rdfs:label,skos:notation
-<http://codes.wmo.int/49-2/SpaceWxLocation/DAYLIGHT_SIDE>,DAYLIGHT_SIDE,experimental,'Daylight Side'@en,skos:Concept,'Daylight Side'@en,DAYLIGHT_SIDE
-<http://codes.wmo.int/49-2/SpaceWxLocation/EQN>,EQN,experimental,'Equatorial latitudes northern hemisphere'@en,skos:Concept,'Equatorial latitudes northern hemisphere'@en,EQN
-<http://codes.wmo.int/49-2/SpaceWxLocation/EQS>,EQS,experimental,'Equatorial latitudes southern hemisphere'@en,skos:Concept,'Equatorial latitudes southern hemisphere'@en,EQS
-<http://codes.wmo.int/49-2/SpaceWxLocation/HNH>,HNH,experimental,'High northern hemisphere'@en,skos:Concept,'High northern hemisphere'@en,HNH
-<http://codes.wmo.int/49-2/SpaceWxLocation/HSH>,HSH,experimental,'High latitudes southern hemisphere'@en,skos:Concept,'High latitudes southern hemisphere'@en,HSH
-<http://codes.wmo.int/49-2/SpaceWxLocation/MNH>,MNH,experimental,'Middle northern hemisphere'@en,skos:Concept,'Middle northern hemisphere'@en,MNH
-<http://codes.wmo.int/49-2/SpaceWxLocation/MSH>,MSH,experimental,'Middle latitudes southern hemisphere'@en,skos:Concept,'Middle latitudes southern hemisphere'@en,MSH
+id,notation,status,description,label
+http://codes.wmo.int/49-2/SpaceWxLocation/DAYLIGHT_SIDE,DAYLIGHT_SIDE,experimental,Daylight Side,Daylight Side
+http://codes.wmo.int/49-2/SpaceWxLocation/EQN,EQN,experimental,Equatorial latitudes northern hemisphere,Equatorial latitudes northern hemisphere
+http://codes.wmo.int/49-2/SpaceWxLocation/EQS,EQS,experimental,Equatorial latitudes southern hemisphere,Equatorial latitudes southern hemisphere
+http://codes.wmo.int/49-2/SpaceWxLocation/HNH,HNH,experimental,High northern hemisphere,High northern hemisphere
+http://codes.wmo.int/49-2/SpaceWxLocation/HSH,HSH,experimental,High latitudes southern hemisphere,High latitudes southern hemisphere
+http://codes.wmo.int/49-2/SpaceWxLocation/MNH,MNH,experimental,Middle northern hemisphere,Middle northern hemisphere
+http://codes.wmo.int/49-2/SpaceWxLocation/MSH,MSH,experimental,Middle latitudes southern hemisphere,Middle latitudes southern hemisphere
